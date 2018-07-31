@@ -1,0 +1,15 @@
+# test
+
+service testService {
+  method ping (reqMsg, resMsg)
+}
+
+struct reqMsg {
+  @1 age = Int16;
+  @2 name = Text;
+}
+
+struct resMsg {
+  @1 age = Int16;
+  @2 name = Text;
+}
