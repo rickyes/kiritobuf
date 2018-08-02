@@ -151,4 +151,4 @@ console.log(JSON.stringify(AST, null, 2));
 ```
 
 ## Author
-Polix © [Ricky 泽阳](https://github.com/rickyes), Released under the MIT License. 
+Kiritobuf © [Ricky 泽阳](https://github.com/rickyes), Released under the MIT License. 
