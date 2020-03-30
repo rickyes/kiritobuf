@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/rickyes/kiritobuf#readme",
   "dependencies": {
-    "ava": "^0.25.0"
+    "ava": "^0.25.0",
+    "llparse": "^6.2.2"
   }
 }
